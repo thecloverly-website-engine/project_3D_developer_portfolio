@@ -167,16 +167,15 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: " Web Development InternWeb Development Intern ",
+    company_name: " Suven Consultants and Technology Pvt.Ltd.",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Oct 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Directed and shaped a 365 Entertainment using HTML5 and CSS3",
+      "Designed and developed a Blogging Frontend Website using HTML5 and CSS3",
+      "Developed a 1 page CSS Static Website and Voter Registration page with basic stylings",
     ],
   },
 ];
@@ -184,35 +183,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "My favourite works of SriBalaji are Pixel Plus UI and ProjectElixir, two Custom Rom projects. Both are incredibly smooth. I appreciate your help because I haven't come across such a nice smooth in any other rom. In the future, I wish to acquire such a refined rom light.",
+    name: "Rajbir Singh",
+    designation: "India",
+    company: "",
+    image: "https://randomuser.me/api/portraits/men/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "He's the maintainer of one of my most favorite Custom ROMs (i.e. ProjectElixir), which not only has one of the most beautiful UIs out there, but also runs significantly better as compared to other ROMs, thereby giving me one of the best experiences that I've gotten from my particular device. I will wager that his builds will give you the best use of your device if you can wait for them to pull up with enough patience. ",
+    name: "Mr.ミニマル",
+    designation: "Germany",
+    company: "",
+    image: "https://randomuser.me/api/portraits/women/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Thanks to the incredible work of the maintainer, my device now runs smoother and faster than ever before. The UI is absolutely stunning, and I can't imagine going back to using any other ROM. If you're looking for the best possible experience for your device, I highly recommend giving Elixir a try. Trust me, you won't be disappointed!",
     name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    designation: "",
+    company: "Bangladesh",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Project Elixir",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      " Another aftermarket AOSP ROM which basically offers minimal UI enhancement and close to Stock Android experience with pixel goodies, minimal UI and customisation. Our aim is keep a perfectly balance between great.",
     tags: [
       {
         name: "react",
@@ -252,9 +251,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "PixelPlus UI",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "PixelPlusUI is minimal UI & close to Stock Android ROM which offers great performance and stability with many useful features.",
     tags: [
       {
         name: "nextjs",
