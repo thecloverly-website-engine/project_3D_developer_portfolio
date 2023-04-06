@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Agile Methodology Virtual Experience Program",
     company_name: "Cognizant",
-    icon: starbucks,
+    icon: meta,
     iconBg: "#383E56",
     date: "Sep 2022 - Oct 2022",
     points: [
@@ -135,7 +135,7 @@ const experiences = [
   {
     title: "Technology Consulting Virtual Internship",
     company_name: "Deloitte",
-    icon: tesla,
+    icon: shopify,
     iconBg: "#E6DEDD",
     date: "Jul 2022 - Aug 2022",
     points: [
@@ -155,7 +155,7 @@ const experiences = [
   {
     title: "Cybersecurity Virtual Experience Program",
     company_name: "Mastercard",
-    icon: shopify,
+    icon: starbucks,
     iconBg: "#383E56",
     date: "Feb 2022 - Mar 2022",
     points: [
@@ -169,7 +169,7 @@ const experiences = [
   {
     title: " Web Development InternWeb Development Intern ",
     company_name: " Suven Consultants and Technology Pvt.Ltd.",
-    icon: meta,
+    icon: tesla,
     iconBg: "#E6DEDD",
     date: "Oct 2021",
     points: [
