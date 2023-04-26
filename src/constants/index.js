@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Quick Learner",
     icon: backend,
   },
   {
@@ -191,7 +191,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "He's the maintainer of one of my most favorite Custom ROMs (i.e. ProjectElixir), which not only has one of the most beautiful UIs out there, but also runs significantly better as compared to other ROMs, thereby giving me one of the best experiences that I've gotten from my particular device. I will wager that his builds will give you the best use of your device if you can wait for them to pull up with enough patience. ",
+      "He's the maintainer of one of my most favorite Custom ROMs (i.e. ProjectElixir), which runs significantly better as compared to other ROMs, thereby giving me one of the best experiences that I've gotten from my particular device. I will wager that his builds will give you the best use of your device if you can wait for them to pull up with enough patience. ",
     name: "Mr.ミニマル",
     designation: "Germany",
     company: "",
@@ -211,65 +211,65 @@ const projects = [
   {
     name: "Project Elixir",
     description:
-      " Another aftermarket AOSP ROM which basically offers minimal UI enhancement and close to Stock Android experience with pixel goodies, minimal UI and customisation. Our aim is keep a perfectly balance between great.",
+      "The main goal of Project Elixir is to offer users a smooth and stable ROM that doesn't compromise on performance or battery life. The ROM achieves this by focusing on minimal UI enhancements that are designed to improve the overall user experience, without adding unnecessary bloat or features.",
     tags: [
       {
-        name: "react",
+        name: "github",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "C",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "bash",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://sribalaji.eu.org/",
   },
   {
-    name: "Job IT",
+    name: "Droid-ify",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Designed and developed a website to promote an app with over 50K downloads, increasing its visibility and reach among potential users. Collaborated with the app development team to ensure a seamless user experience between the app and the website. Implemented a modern and responsive design, utilizing NextJS, Tailwind CSS, to enhance the overall aesthetic and functionality of the website.",
     tags: [
       {
-        name: "react",
+        name: "Nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Figma",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Droif-ify",
   },
   {
     name: "PixelPlus UI",
     description:
-      "PixelPlusUI is minimal UI & close to Stock Android ROM which offers great performance and stability with many useful features.",
+      "PixelPlusUI is an open-source custom ROM based on the AOSP (Android Open Source Project) with a minimal UI that closely resembles the Stock Android experience. The ROM is designed to provide users with great performance and stability, as well as several useful features that enhance the overall user experience.",
     tags: [
       {
-        name: "nextjs",
+        name: "AOSP",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "git",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "bash",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://sribalaji.eu.org/",
   },
 ];
 
