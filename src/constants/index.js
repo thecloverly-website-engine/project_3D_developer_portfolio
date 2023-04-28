@@ -122,7 +122,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Sep 2022 - Oct 2022",
     points: [
-      "Completed practical task modules in",
+      "Completed practical task modules in:",
       "Waterfall vs Agile",
       "User Stories",
       "Role Assignments and Ceremonies",
@@ -139,14 +139,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jul 2022 - Aug 2022",
     points: [
-      "Over the period of October 2021 to",
-      "August 2022,I have completed",
-      "practical task modules in:",
       "Design a Business Case",
       "Considerations For Mobilisation",
       "Define the project approach",
-      "Further analysis & solution",
-      "presentation",
+      "Further analysis & solution presentation",
       "Understanding Cloud Computing",
       "Cloud Feasibility Assessment",
       "Cloud Readiness Assessment",
@@ -159,9 +155,6 @@ const experiences = [
     iconBg: "#383E56",
     date: "Feb 2022 - Mar 2022",
     points: [
-      "Over the period of March 2022, I",
-      "have completed practical task",
-      "modules in:",
       "Design a phishing email simulation",
       "Interpret phishing simulation results",
     ],
@@ -248,7 +241,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/Droif-ify",
+    source_code_link: "https://droid-ify.eu.org",
   },
   {
     name: "PixelPlus UI",
